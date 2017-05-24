@@ -4,10 +4,13 @@
   "description": "",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {
+    "webpack": "^2.6.0",
+    "webpack-dev-server": "^2.4.5"
   },
-  "author": "",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Andrey Bar",
   "license": "ISC"
 }
