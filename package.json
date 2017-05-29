@@ -18,6 +18,8 @@
     "css-loader": "^0.28.3",
     "extract-text-webpack-plugin": "^2.1.0",
     "jshint": "^2.9.4",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.5",
     "style-loader": "^0.18.1",
     "webpack": "^2.6.0",
     "webpack-dev-server": "^2.4.5"
